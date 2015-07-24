@@ -1,0 +1,13 @@
+{
+  "name": "myMEANtest",
+  "version": "0.0.1",
+  "depenencies": {
+    "express": "latest",
+    "angular": "latest",
+    "gulp": "latest"
+  },
+  "dependencies": {
+    "ejs": "^2.3.3",
+    "express": "^4.13.1"
+  }
+}
